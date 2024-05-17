@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+<div align="center">
 
-## 🚀 Introdução
+# Mitos no Ar: A Melodia das Lendas Gregas
 
-> Woooow! Look at this 👀
+<img src="assets\Eros e Psique.jpg" width="700" alt="Eros e Psique">
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+</div>
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+### 💾 DESAFIO DE PROJETO
+### 🤖📑 Natural ou Fake Natty?
 
-### Objetivos
+Projeto realizado durante o **Bootcamp Santander 2024 - Fundamentos de IA para Devs**.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Visando o uso de IAs de forma ainda mais proficiente, foram utilizados todos os conhecimentos adquiridos durante a jornada para criar um projeto ainda melhor. Como achei mais desafiador fazer um podcast, resolvi fazer mais um novamente, abordando dessa vez um conto da mitologia grega.
 
-### Template
+#### Você pode ouvir o episódio do podcast [**aqui**](output) 🎙📻
+#### Prompts do roteiro e da imagem gerada [**aqui**](assets) 📖
+#### Músicas que ambientam o podcast estão [**aqui**](assets\Songs.md) 🎼
+--------------
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### 👾 Tecnologias Utilizadas no Projeto
+- [ChatGPT](https://chatgpt.com/) - para criação de título, roteiro e revisões no geral
+- [Leonardo.Ai](https://leonardo.ai/) - para criação da capa do epi
+- [ElevenLabs](https://elevenlabs.io/) - para IA de voz generativa
+- [Capcut](https://www.capcut.com/editor?__action_from=picture_Editor%20de%20v%C3%ADdeo%20completo%20e%20gratuito%20para%20todos%20criarem%20qualquer%20coisa%20de%20qualquer%20lugar&__from_page=landing_page) - para edições no aúdio bruto
+> **Nota:** A versão web ainda só da a opção para exportar em .mp4 ou .MOV — por isso para conversão em .mp3 usei ➡ ([AVC](https://www.any-video-converter.com/en8/for_video_free/)) 
 
-## 📒 Descrição
-Breve descrição do seu projeto
+### 💭 Reflexão
+As IAs são realmente aliadas poderosas na geração de conteúdo, otimizando o tempo e fornecendo assistência personalizada. No entanto, é essencial considerarmos questões éticas sobre seu uso responsável e os desafios em garantir qualidade e originalidade do conteúdo, assim como as implicações sociais e culturais de nossa crescente dependência delas. Enquanto celebramos suas contribuições, devemos estar atentos, garantindo que elas complementem, e não substituam de fato, a criatividade humana.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+----------------
