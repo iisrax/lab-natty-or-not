@@ -15,7 +15,7 @@ Visando o uso de IAs de forma ainda mais proficiente, foram utilizados todos os 
 
 #### Você pode ouvir o episódio do podcast [**aqui**](output) 🎙📻
 #### Prompts do roteiro e da imagem gerada [**aqui**](assets) 📖
-#### Músicas que ambientam o podcast estão [**aqui**](assets\Songs.md) 🎼
+#### Músicas que ambientam o podcast estão [**aqui**](https://github.com/iisrax/lab-natty-or-not/blob/main/assets/Songs.md) 🎼
 --------------
 
 ### 👾 Tecnologias Utilizadas no Projeto
