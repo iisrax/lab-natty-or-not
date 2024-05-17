@@ -8,9 +8,6 @@ Se você ouvinte ficou interresado pelas músicas presentes no podcast, aqui est
 [Baccus - Synaulia](https://www.youtube.com/watch?v=E_deBN6AHfY)  
 [The Promise of Zeus - Vaxevaneris Stylianos Hephaestion](https://music.youtube.com/watch?v=bSqwti0JlNM)
 
----------------
-
 <p align="center">
-    <img width="700" src="assets\PsiqueReading.jpg>
-    
+    <img width="700" src="https://raw.githubusercontent.com/iisrax/lab-natty-or-not/main/assets/PsiqueReading.jpg" alt="Psique Reading">
 </p>
