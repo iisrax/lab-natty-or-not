@@ -29,3 +29,14 @@ Visando o uso de IAs de forma ainda mais proficiente, foram utilizados todos os 
 As IAs são realmente aliadas poderosas na geração de conteúdo, otimizando o tempo e fornecendo assistência personalizada. No entanto, é essencial considerarmos questões éticas sobre seu uso responsável e os desafios em garantir qualidade e originalidade do conteúdo, assim como as implicações sociais e culturais de nossa crescente dependência delas. Enquanto celebramos suas contribuições, devemos estar atentos, garantindo que elas complementem, e não substituam de fato, a criatividade humana.
 
 ----------------
+
+### Bônus 🎧🎶
+
+<img width="150" src="assets/Spotify_Logo_RGB_Green.png" align="right">
+
+<br>
+
+Se você aprecia mitos gregos ou tem interesse em ouvir um podcast sobre Mitologia Grega com foco em narrativa descritiva, existe um excelente podcast chamado [**Noites Gregas**](https://open.spotify.com/show/5Z3h3reDjsf7DxTVeitnu2).  
+Prof.º Moreno é um ótimo narrador, e com a produção de Filipe Speck a imersão já presente se complementa ainda mais. Tenho certeza de que será uma ótima adição para sua playlist. ✨😄
+
+<br />
